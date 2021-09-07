@@ -1,0 +1,44 @@
+.rojo {
+    background-color: red;
+    height: 200px;
+}
+
+.azul {
+    background-color: blue;
+    height: 200px;
+}
+
+.amarillo {
+    background-color: yellow;
+    height: 200px;
+}
+
+.verde {
+    background-color: chartreuse;
+    height:200px
+}
+
+.violeta {
+    background-color: purple;
+    height: 200px;
+}
+
+.negro {
+    background-color: black;
+    height: 200px;
+}
+
+.oliva {
+    background-color: olive;
+    height: 200px;
+}
+
+.plateado {
+    background-color: silver;
+    height: 200px
+}
+
+.naranja {
+    background-color: orangered;
+    height: 200px
+}
